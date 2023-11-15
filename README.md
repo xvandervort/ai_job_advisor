@@ -60,6 +60,10 @@ Note that the provided version of this notebook contains some not at all useful 
 
 Sure. Put in a pull request if you want. I don't guaranty that I'll do anything about it but I don't guaranty that I won't, either.
 
+## Blog post about this work
+
+[What Sohuld Your AI Job Be?](https://insfor.wordpress.com/2023/11/15/what-should-your-ai-job-be/)
+
 ## Self-Promotion
 
 Dave Vandervort is a consultant who can help your start up or small business do a better job of integrating LLMs into your products, services or workflows. Until LLM's are superseded by something even more impressive. Then I guess I'll have to learn some brand new tech! (Actually, sounds like fun)
