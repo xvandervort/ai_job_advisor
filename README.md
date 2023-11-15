@@ -62,7 +62,7 @@ Sure. Put in a pull request if you want. I don't guaranty that I'll do anything 
 
 ## Blog post about this work
 
-[What Sohuld Your AI Job Be?](https://insfor.wordpress.com/2023/11/15/what-should-your-ai-job-be/)
+[What Should Your AI Job Be?](https://insfor.wordpress.com/2023/11/15/what-should-your-ai-job-be/)
 
 ## Self-Promotion
 
